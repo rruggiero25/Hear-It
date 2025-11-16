@@ -39,7 +39,7 @@ Hear It is a SwiftUI feature that simulates **environmental sound detection**. I
 ├─ 📁 Engine  
 │  ├─ 📄 MockSoundClassifier.swift  
 │  ├─ 📄 HapticsTorch.swift  
-│  └─ 📄 (Optional) RealSoundAnalyzer.swift  
+│  └─ 📄 RealSoundAnalyzer.swift  
 ├─ 📁 ViewModel  
 │  └─ 📄 HearItViewModel.swift  
 ├─ 📁 UI  
