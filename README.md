@@ -15,9 +15,13 @@ But there's a specific reason why it inspired me:
 BeAware's alert system is based mainly on sound intensity (a threshold).
 It notifies the user when a sound passes that level, but it doesn't identify what the sound actually is. That limitation made me curious. I wanted to explore a version where the system doesn't just react to “a loud sound”, but tries to understand the kind of sound – doorbell, glass break, dog bark – and then alert the user with more context.
 
+## Deconstruction fase (BeAware)
+
+[Click here for Dropbox folder with the deconstructed app](https://www.dropbox.com/scl/fo/rkvjqjka253hcvlu568kk/AM1W3ua7mG14u9SUTaxUElg?rlkey=b2mf74abw8o9vb1ly6rxhgfcu&st=lnyz24yu&dl=0)
+
 ---
 
-## The developed feature: Hear It
+## The developed feature: HEAR IT
 
 Hear It is a SwiftUI feature that simulates **environmental sound detection**. It shows alerts with **haptics, LED flashes, and banners**, and keeps a simple history of events. Currently it uses a **mock sound engine**, but it's built to plug in a real ML sound classifier later.
 
@@ -54,7 +58,7 @@ Hear It is a SwiftUI feature that simulates **environmental sound detection**. I
 
 ---
 
-## Sketch 
+## Sketch (Hear It)
 
 [Click here to see the Dropbox folder and the Sketch file](https://www.dropbox.com/scl/fo/rkul57o2w00280xvuvmuy/ADzayciW2Pq70aLMCLy1yPw?rlkey=sowizqrhmn7vlj8x482bb14q8&st=jywlc73a&dl=0)
 
