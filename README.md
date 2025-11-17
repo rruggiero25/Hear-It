@@ -62,6 +62,10 @@ Hear It is a SwiftUI feature that simulates **environmental sound detection**. I
 
 [Click here to see the Dropbox folder and the Sketch file](https://www.dropbox.com/scl/fo/rkul57o2w00280xvuvmuy/ADzayciW2Pq70aLMCLy1yPw?rlkey=sowizqrhmn7vlj8x482bb14q8&st=jywlc73a&dl=0)
 
+## And Keynote
+
+[Click here to see the dropbox folder and the presentation file](https://www.dropbox.com/scl/fo/zv6bpggh575gonczlvygj/AGhEYsVN_9PEq0m4iMcrXeM?rlkey=fw1osde2izsi4nl10twcjzqvu&st=xbrm3spp&dl=0)
+
 ---
 ## How to Try It
 
